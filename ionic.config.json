@@ -1,0 +1,14 @@
+{
+  "name": "ionic_todo",
+  "app_id": "0181bc2d",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
